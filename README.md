@@ -1,4 +1,4 @@
-## Mar Rover Challenge
+## Mars Rover Challenge
 Simple implementation of the Mars Rover Challenge [Here](https://code.google.com/archive/p/marsrovertechchallenge/)
 
 ### Install dependencies
